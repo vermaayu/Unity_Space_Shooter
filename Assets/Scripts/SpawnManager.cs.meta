@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b681a4e2927c34c488b4e76adc408a72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyPrefab: {fileID: 4281556316282300374, guid: 383546dc934ff46459b91504088fe2fd,
+      type: 3}
+  - _enemyContainer: {instanceID: 0}
+  - _tripleShotPowerupPrefab: {fileID: 5829544071166791605, guid: f63f4c9147876ac448afe99afaa18669,
+      type: 3}
+  - _speedBoostPowerupPrefab: {fileID: 6224849174437804686, guid: 43918ba489617154a9c32dbce0010536,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
